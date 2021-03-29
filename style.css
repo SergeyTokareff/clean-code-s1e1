@@ -25,7 +25,7 @@ body {
   .aaa {
     text-align: center;
   }
-  
+
 }
 
 .centered-main-page-element {
@@ -134,7 +134,7 @@ li > label {
 }
 
 li > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 li > button.delete:hover {
