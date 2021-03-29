@@ -105,7 +105,7 @@ input#new-task {
   width: 318px;
 }
 
-p>button:hover {
+p > button:hover {
   color: #0fc57c;
 }
 
@@ -116,11 +116,11 @@ li {
   border-bottom: 1px solid #eee;
 }
 
-li>* {
+li > * {
   vertical-align: middle;
 }
 
-li>input[type="checkbox"] {
+li > input[type="checkbox"] {
   margin: 0 10px;
 }
 
